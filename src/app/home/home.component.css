@@ -1,0 +1,51 @@
+.homeDiv {
+  background: url("../images/homeBackground.jpg");
+  height: 100vh;
+}
+
+.introContainer {
+  padding-left: 20%;
+  padding-top: 15vw;
+  width: 50vw;
+  height: 100vh;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+.introHeadingText {
+  font-size: 72px;
+}
+
+.introParagraph {
+  width: 70%;
+}
+
+.icons {
+  height: 50px;
+  width: 50px;
+}
+
+a {
+  padding-right: 1.5rem;
+}
+
+.contactMeButton {
+  border-width: 1px;
+  border-color: #3daa73;
+  border-style: solid;
+  border-radius: 15px;
+  padding: 0;
+  color: #3daa73;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.profilePicture {
+  height: 400px;
+  width: 400px;
+  z-index: 1;
+  margin-left: 70%;
+  border-radius: 9999px;
+}
