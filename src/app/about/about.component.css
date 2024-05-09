@@ -1,0 +1,14 @@
+.aboutContainer {
+  height: 70vh;
+  background-color: #050608;
+}
+
+.aboutMeContainers {
+  width: 40vw;
+}
+
+.skills {
+  background-color: #bb8dbc;
+  border-radius: 10px;
+  font-weight: bold;
+}
